@@ -1,7 +1,9 @@
 # Final-Project-BART
 Programming Course Final Project - BART
+
 This repository contains a Python version of the **Balloon Analogue Risk Task (BART)** using **PsychoPy**.
-The task is designed to measure risk-taking behavior by having participants to pump a balloon (to earn rewards) or to cash out, with each pump increasing the risk of balloon explosion.
+
+The task is designed to measure **risk-taking behavior** by having participants to pump a balloon (to earn rewards) or to cash out, with each pump increasing the risk of balloon explosion.
 
 
 ------
