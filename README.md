@@ -39,6 +39,6 @@ The flow of the experiment is:
 
 ## Instruction to run the code
 
-Download the code file and open it with PsychoPy. Again, make sure things are all in the same place. Feel free to contact me if any questions!
+Download the code file **BART.py** and open it with PsychoPy. Again, make sure things are all in the same place. Feel free to contact me if any questions!
 
 ------
